@@ -1,3 +1,6 @@
+# This is a fork of WordPress SEO Version 2.3.5 modified so that it cannot be updated.
+
+
 Yoast SEO
 ======================
 
